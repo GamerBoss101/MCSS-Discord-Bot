@@ -1,0 +1,7 @@
+color: "Green"
+title: "GMU Craft"
+description: "Version: 1.21.1\nPlayers online: {online} / {max}"
+fields: 
+  - { name: "Java", value: "{javastat} : `{javaip}`", inline: false }
+  - { name: "Bedrock & Pocket Edition", value: "{bedrockstat} : `{bedrockip}`", inline: false }
+timestamp: true
